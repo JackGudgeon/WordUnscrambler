@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordUnscrambler", "WordUnscrambler\WordUnscrambler.csproj", "{705DF66C-17CB-42E8-94CB-D14D4A05BDAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordUnscrambler", "WordUnscrambler\WordUnscrambler.csproj", "{F9FCEF60-30BF-4962-89C8-919CA5B66A16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{705DF66C-17CB-42E8-94CB-D14D4A05BDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{705DF66C-17CB-42E8-94CB-D14D4A05BDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{705DF66C-17CB-42E8-94CB-D14D4A05BDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{705DF66C-17CB-42E8-94CB-D14D4A05BDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9FCEF60-30BF-4962-89C8-919CA5B66A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FCEF60-30BF-4962-89C8-919CA5B66A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FCEF60-30BF-4962-89C8-919CA5B66A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FCEF60-30BF-4962-89C8-919CA5B66A16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A123E4DE-C558-44E7-A8F9-9214A2D71DC2}
+		SolutionGuid = {CD38FE3B-E68D-4C31-A238-D6D6FD878B3E}
 	EndGlobalSection
 EndGlobal

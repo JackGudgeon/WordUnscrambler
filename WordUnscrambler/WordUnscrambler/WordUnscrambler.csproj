@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{705DF66C-17CB-42E8-94CB-D14D4A05BDAC}</ProjectGuid>
+    <ProjectGuid>{F9FCEF60-30BF-4962-89C8-919CA5B66A16}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>WordUnscrambler</RootNamespace>
     <AssemblyName>WordUnscrambler</AssemblyName>
@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Constants.cs" />
+    <Compile Include="Data\MatchedWord.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Workers\FileReader.cs" />
+    <Compile Include="Workers\WordMatcher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
